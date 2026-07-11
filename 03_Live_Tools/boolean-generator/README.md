@@ -2,6 +2,8 @@
 
 A working, interactive tool. Not a description of a workflow, an actual tool you can open and use.
 
+**[Open the live tool →](https://anuskasidharth-a11y.github.io/AI-for-Talent-Acquisition/03_Live_Tools/boolean-generator/index.html)**
+
 ## What it does
 
 Enter a job title, alternative titles, experience level, location, must-have skills, nice-to-have
@@ -19,7 +21,7 @@ general web engine rather than a platform with its own location filter.
 
 ## How to use it
 
-1. Open `index.html` in any browser (double-click the file, or use GitHub Pages if enabled on this repo).
+1. Click the live tool link above, it opens directly in your browser, no download needed.
 2. Fill in the job title and at least one must-have skill.
 3. Click **Generate Boolean string**.
 4. Click **Copy** to copy the result directly into LinkedIn Recruiter, a job board, or your ATS.
