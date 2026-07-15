@@ -2,7 +2,7 @@
 
 A working, interactive tool. Not a description of a workflow, an actual tool you can open and use.
 
-[Open the live tool →](#)
+[Open the live tool →](https://anuskasidharth-a11y.github.io/AI-for-Talent-Acquisition/03_Live_Tools/outreach-message-generator/)
 
 ## What it does
 
